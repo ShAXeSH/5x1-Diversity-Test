@@ -19,7 +19,7 @@ Dodging finishers will require MAX Stamina, and extra stamina regeneration cool-
 wallrun/wallfight
 touching a wall and pressing a certain key makes you run on the wall, can fight on walls as well.
 (naruto-thing)
-#*THIS IS A TEST REPO, DO NOT USE THESE, AS THEY ARE MESSED UP*
+#*THIS IS A TEST REPO, DO NOT USE THESE, AS THEY ARE PRETTY MESSED UP*
 
 ==========================================================================================
 STUFF IMPLEMENTED
@@ -33,3 +33,4 @@ Fast Running
 MaxSpeedRun
 IdleStateJump
 RunningStateJump(Half Implemented, commented out due to definite compiler errors(Incomplete script))
+
